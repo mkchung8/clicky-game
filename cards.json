@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1, 
+        "image": "./assets/images/nicky1.jpeg", 
+        "clicked": false 
+    }, 
+    {
+        "id": 2, 
+        "image": "./assets/images/nicky2.jpeg", 
+        "clicked": false 
+    },
+    {
+        "id": 3, 
+        "image": "./assets/images/nicky3.jpeg", 
+        "clicked": false 
+    },
+    {
+        "id": 4, 
+        "image": "./assets/images/nicky4.jpg", 
+        "clicked": false 
+    },
+    {
+        "id": 5, 
+        "image": "./assets/images/nicky5.jpg", 
+        "clicked": false 
+    },
+    {
+        "id": 6, 
+        "image": "./assets/images/nicky6.jpg", 
+        "clicked": false 
+    },
+    {
+        "id": 7, 
+        "image": "./assets/images/nicky7.jpg", 
+        "clicked": false 
+    },
+    {
+        "id": 8, 
+        "image": "./assets/images/nicky8.jpg", 
+        "clicked": false 
+    },
+    {
+        "id": 9, 
+        "image": "./assets/images/nicky9.jpg", 
+        "clicked": false 
+    },
+    {
+        "id": 10, 
+        "image": "./assets/images/nicky10.jpg", 
+        "clicked": false 
+    },
+    {
+        "id": 11, 
+        "image": "./assets/images/nicky11.jpg", 
+        "clicked": false 
+    },
+    {
+        "id": 12, 
+        "image": "./assets/images/nicky12.jpg", 
+        "clicked": false 
+    }
+]

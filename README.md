@@ -6,14 +6,16 @@ A game application created using React.
 
 User accumulates points by clicking on each picture, with the pictures shuffling into a different order after each click. The game is over when the user clicks on the same image twice. 
 
+You can play the game here -> [link]
+
 # Technologies Used: 
 * Node.js
 * React 
+* React-Bootstrap
 
 # Author: 
 
 Miyoung K.Chung [githublink]
-
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -84,3 +86,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+permalink: /index.html
